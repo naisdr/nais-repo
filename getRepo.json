@@ -1,8 +1,0 @@
-{
-    "name": "Naistream providers repository",
-    "description": "Providers from all country",
-    "manifestVersion": 1,
-    "pluginLists": [
-        "https://raw.githubusercontent.com/naisdr/nais-repo/refs/heads/main/data.json"
-    ]
-}
