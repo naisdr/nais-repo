@@ -1,0 +1,8 @@
+{
+    "name": "Naistream providers repository",
+    "description": "Providers from all country",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "http://naistream.000webhostapp.com/data.json"
+    ]
+}
