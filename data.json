@@ -1,0 +1,343 @@
+[
+    {
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/moviebox.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-a3031411dd24fe63c96f9af916c8e5a872e783ea395ece1177ba32dd08e3608f",       
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 128635,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "NivinCNC,Phisher98"
+        ],
+        "tvTypes": [
+            "Movies",
+            "TvSeries"
+        ],
+        "version": 33,
+        "internalName": "MovieBoxProvider",
+        "description": "📺 Streaming Movie and TV Series",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MovieBoxProvider.cs3",
+        "name": "MovieBoxProvider"
+    },   
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animekhor.org&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-5781e4e1a8eed09fc680f73372889410f7fa53de25e7c603a6cdbb23eaf1b1d6",       
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 62173,
+        "status": 1,
+        "language": "zh",
+        "authors": [
+            "NivinCNC,Phisher98"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 13,
+        "internalName": "Animekhor",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animekhor.cs3",
+        "name": "Animekhor"
+    },   
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=d21.team&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-ab7071b282396eee837fd0021d0b4ea4777c066f2fb76a157050c296d25f91da",       
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 91119,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "NivinCNC,Phisher98"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 10,
+        "internalName": "LayarKacaProvider",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/LayarKacaProvider.cs3",
+        "name": "LayarKacaProvider"
+    },
+    {
+        "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
+        "apiVersion": 1,
+        "fileHash": "sha256-3b403dfa456d498eb2b6fbeb57e9585c95f40d31471a1b2bd2cede353574fe73",       
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 1616437,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "NivinCNC,Phisher98"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "AnimeMovie",
+            "Movie",
+            "Cartoon",
+            "TvSeries"
+        ],
+        "version": 672,
+        "internalName": "StreamPlay",
+        "description": "Multi Language Movies and Series Provider",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
+        "name": "StreamPlay"
+    },
+    {
+        "iconUrl": "https://i.ibb.co.com/SwTXWck9/dutamovie.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "fileSize": 27347,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "Asm0d3usX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Dutamovie",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Dutamovie.cs3",
+        "name": "Dutamovie"
+    },
+    {
+        "iconUrl": "https://i.ibb.co.com/Jjzsxm9F/cropped-lk21-1.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "fileSize": 24041,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Filmkita",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Filmkita.cs3",
+        "name": "Filmkita"
+    },
+    {
+        "iconUrl": "https://i.ibb.co.com/xtyf1WFY/idlix.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "fileSize": 51520,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "Sora"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Idlix",
+        "description": "#1 best extention based on MultiAPI",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Idlix.cs3",
+        "name": "Idlix"
+    },
+    {
+        "iconUrl": "https://i.ibb.co.com/6cCQ1h87/indomax.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "fileSize": 20883,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "Sora"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Indomax",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Indomax.cs3",
+        "name": "Indomax"
+    },
+    {
+        "iconUrl": "https://i.ibb.co.com/KjQdk4YC/kawanfilm.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "fileSize": 27616,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Kawanfilm",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Kawanfilm.cs3",
+        "name": "Kawanfilm"
+    },
+    {
+        "iconUrl": "https://i.ibb.co.com/3yVG0DbY/ngefilm.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "fileSize": 21909,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "Sora"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Ngefilm",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Ngefilm.cs3",
+        "name": "Ngefilm"
+    },
+    {
+        "iconUrl": "https://i.ibb.co.com/Z1YVFHNS/nomat.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "fileSize": 19451,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Nomat",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Nomat.cs3",
+        "name": "Nomat"
+    },
+    {
+        "iconUrl": "https://i.ibb.co.com/Y7dqMBrr/pencurimovie.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "fileSize": 16517,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "Sora"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Pencurimovie",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Pencurimovie.cs3",
+        "name": "Pencurimovie"
+    },
+    {
+        "iconUrl": "https://i.ibb.co.com/qFdDYpcD/pusatmovie.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "fileSize": 23941,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Pusatmovie",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Pusatmovie.cs3",
+        "name": "Pusatmovie"
+    },
+    {
+        "iconUrl": "https://i.ibb.co.com/bMKwcDtH/sarangfilm.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "fileSize": 29763,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Sarangfilm",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Sarangfilm.cs3",
+        "name": "Sarangfilm"
+    },
+    {
+        "iconUrl": "https://i.ibb.co.com/HptN2Q7m/savefilm.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "fileSize": 21933,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Cartoon",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "Savefilm",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Savefilm.cs3",
+        "name": "Savefilm"
+    },    
+    {
+        "iconUrl": "https://i.ibb.co.com/zHLLPyVd/wgfilm21.webp",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "fileSize": 24012,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Blatzar"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "WGFilm21",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/WGFilm21.cs3",
+        "name": "WGFilm21"
+    }
+]
