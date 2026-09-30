@@ -1,5 +1,6 @@
 [
-    "iconUrl": "https://i.ibb.co.com/SwTXWck9/dutamovie.png",
+    {
+        "iconUrl": "https://i.ibb.co.com/SwTXWck9/dutamovie.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
         "fileSize": 27347,
