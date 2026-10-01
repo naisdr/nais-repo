@@ -65,9 +65,9 @@
     {
         "iconUrl": "https://a.favicon.im/animexin.dev?larger=true",
         "apiVersion": 1,
-        "fileHash": "sha256-d97914753865daabfad7f5635ec701ba0dd642ea69a6b21581064aae300ea0cd",       
+        "fileHash": "sha256-443f376fd7f5912c2aaa03b88c5af5d860343035305d9c9405ba9555c0d4f929",       
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 87853,
+        "fileSize": 88686,
         "status": 1,
         "language": "en",
         "authors": [
@@ -86,9 +86,9 @@
     {
         "iconUrl": "https://i.ibb.co.com/9HDVpFFT/layarkaca.png",
         "apiVersion": 1,
-        "fileHash": "sha256-35c0db4dd49b38d05dc01b861b59604ba0d5178b8a6434a574674e19baf2c58c",       
+        "fileHash": "sha256-83dc6ae6525212fb075966494334987f160f6c677ebfb43625b818494ef4fe42",       
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 87087,
+        "fileSize": 87826,
         "status": 1,
         "language": "id",
         "authors": [
@@ -107,9 +107,9 @@
     {
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
-        "fileHash": "sha256-14ad69c3e8e292c55cf20fd4744ff3f08272d6436c197f658dcfc419421dcd3b",       
+        "fileHash": "sha256-bf5cc3d451cdce2fad3a23d426d6f0fecad36cea2dc98e85e009698fb24592fe",       
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 1810859,
+        "fileSize": 1875681,
         "status": 1,
         "language": "en",
         "authors": [
@@ -123,7 +123,7 @@
             "Cartoon",
             "TvSeries"
         ],
-        "version": 682,
+        "version": 683,
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
