@@ -85,45 +85,43 @@
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anichin.club&size=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-021e8621152d33ebac2dd1fcf0c9c26ce6767e16045178e7df66377f7a5894b2",       
-        "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
-        "fileSize": 33866,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Duro92,CodeSanzz"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "Cartoon"
-        ],
-        "version": 25,
-        "internalName": "AnichinMoe",
-        "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/AnichinMoe.cs3",
-        "name": "AnichinMoe"
+    "fileHash": "sha256-536bbf1c2b71a9985feb250ea6a9df1dbbcfdb9e60b6a4c65d1814ad4e0711e1",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/byimam2nd/oce",
+    "fileSize": 392995,
+    "status": 1,
+    "language": "id",
+    "authors": [
+      "Imam2nd"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "version": 29849710,
+    "internalName": "Anichin",
+    "description": "[Build 2026-10-03 06:10 WIB] 🎬 Anichin - Streaming Anime China Subtitle Indonesia dengan kualitas tinggi dan update tercepat!",
+    "url": "https://raw.githubusercontent.com/byimam2nd/oce/builds/ProviderAnichin.cs3",
+    "name": "Anichin"
     },   
     {
         "iconUrl": "https://a.favicon.im/animexin.dev?larger=true",
-        "apiVersion": 1,
-        "fileHash": "sha256-36e9704035fa820722832aefc2e0310304a12e5adf75a4dad02308e6e18fe938",       
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 89293,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "NivinCNC,Phisher98"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "Cartoon"
-        ],
-        "version": 16,
-        "internalName": "Animexin",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animexin.cs3",
-        "name": "Animexin"
+    "fileHash": "sha256-976656199ddaa613468bcb7d1833c74cbe837d64b3b6c366cf84db1ceb6d88a3",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/byimam2nd/oce",
+    "fileSize": 392972,
+    "status": 1,
+    "language": "id",
+    "authors": [
+      "Imam2nd"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "version": 29849710,
+    "internalName": "Animexin",
+    "description": "[Build 2026-10-03 06:10 WIB] 🎬 AnimexinDev - Streaming Anime Subtitle Indonesia dengan multi-server player!",
+    "url": "https://raw.githubusercontent.com/byimam2nd/oce/builds/ProviderAnimexin.cs3",
+    "name": "Animexin"
     },   
     {
         "iconUrl": "https://i.ibb.co.com/9HDVpFFT/layarkaca.png",
@@ -149,9 +147,9 @@
     {
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
-        "fileHash": "sha256-1c919dc4700a5731d9f090c47f43717949289ef05211e8fc28771f4522b1677e",       
+        "fileHash": "sha256-7e6ca5f25a444e1c8d7c642b677f16e34cecaf877c710c3a76dbd9ca334ce913",       
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 1907749,
+        "fileSize": 1907877,
         "status": 1,
         "language": "en",
         "authors": [
