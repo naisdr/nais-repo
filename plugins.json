@@ -2,22 +2,23 @@
     {
         "iconUrl": "https://i.ibb.co.com/YFbP1FSr/icon.png",
         "apiVersion": 1,
+        "fileHash": "sha256-caa20e6bae2e1fd0b9b3929a4baf58702f8cbe7417d510f8606bb55ccae2271d",
         "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
-        "fileSize": 75157,
+        "fileSize": 78774,
         "status": 1,
-        "language": "id",
+        "language": "en",
         "authors": [
             "Hexated",
-            "Asm0d3usX"
+            "aldry84"
         ],
         "tvTypes": [
             "TvSeries",
             "Movie"            
         ],
-        "version": 1,
+        "version": 12,
         "internalName": "Moviebox",
-         "description": "Netnaija,Sflix(Untuk Moviebox error play)",       
-        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Moviebox.cs3",
+         "description": "MovieBox HD",       
+        "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/Moviebox.cs3",
         "name": "Moviebox"
     },   
     {
