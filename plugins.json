@@ -22,10 +22,11 @@
     },   
     {
         "iconUrl": "https://i.ibb.co.com/YFbP1FSr/icon.png",
+        "iconUrl": "https://i.ibb.co.com/YFbP1FSr/icon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-64bcb9ee8e263eb7a99f1615842e8e76dddfad5136db5c8f7589c37b991ca63f",       
+        "fileHash": "sha256-902b30af1faf8af2144604a73e91df7dc1fb282ed53eabd9573494408f76b0fe",       
         "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
-        "fileSize": 41938,
+        "fileSize": 41940,
         "status": 1,
         "language": "id",
         "authors": [
@@ -36,10 +37,10 @@
             "Series"
         ],
         "version": 14,
-        "internalName": "MovieBoxProvider",
+        "internalName": "MovieBoxLite",
         "description": "Moviebox🤕 Lite max resolusi 480p",
-        "url": "https://github.com/naisdr/nais-repo/blob/main/MovieBoxProviderLite.cs3",
-        "name": "MovieBoxProvider"
+        "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/MovieBoxProvider.cs3",
+        "name": "MovieBoxLite"
     },
     {
         "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/OppaDrama.cs3",
