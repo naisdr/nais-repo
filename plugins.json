@@ -1,10 +1,32 @@
 [
     {
+        "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/Moviebox.cs3",
+    "status": 1,
+    "version": 12,
+    "name": "MovieBox",
+    "internalName": "MovieBox",
+    "description": "MovieBox HD",
+    "authors": [
+      "aldry84"
+    ],
+    "fileSize": 78774,
+    "repositoryUrl": "https://github.com/bikinveo-hash/RepairPremium_Repo",
+    "language": "en",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://i.ibb.co.com/YFbP1FSr/icon.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-caa20e6bae2e1fd0b9b3929a4baf58702f8cbe7417d510f8606bb55ccae2271d"
+    },   
+    {
         "iconUrl": "https://i.ibb.co.com/YFbP1FSr/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
         "fileSize": 75157,
-        "status": 1,
+        "status": 0,
         "language": "id",
         "authors": [
             "Hexated",
@@ -41,6 +63,28 @@
         "description": "Moviebox🤕 Lite max resolusi 480p",
         "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/MovieBoxProvider.cs3",
         "name": "MovieBox🤕 lite"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/Sflix.cs3",
+    "status": 1,
+    "version": 3,
+    "name": "Sflix",
+    "internalName": "Sflix",
+    "authors": [
+      "AdiManu"
+    ],
+    "fileSize": 35720,
+    "repositoryUrl": "https://github.com/bikinveo-hash/RepairPremium_Repo",
+    "language": "id",
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://sflix.film/favicon.ico",
+    "apiVersion": 1,
+    "fileHash": "sha256-e43429071f393c931421cf34a5c20663927e8b4a37828cb5d20dbf1467880d04"
     },
     {
         "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/OppaDrama.cs3",
