@@ -317,24 +317,25 @@
         "name": "Savefilm"
     },    
     {
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://free-reels.com&size=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-1c476ff38daa8ed906d32ec1c09a929658fb453798630c433f71024aaa303db4",       
-        "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
-        "fileSize": 73662,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "duro92"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "AsianDrama"
-        ],
-        "version": 1,
-        "internalName": "FreeReels",
-        "description": "FreeReels short drama provider",
-        "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/FreeReels.cs3",
-        "name": "FreeReels"
+        "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/FreeReels.cs3",
+    "status": 1,
+    "version": 30,
+    "name": "FreeReels",
+    "internalName": "FreeReels",
+    "authors": [
+      "AdiManu"
+    ],
+    "fileSize": 37710,
+    "repositoryUrl": "https://github.com/bikinveo-hash/RepairPremium_Repo",
+    "language": "id",
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://free-reels.com/free-reels.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-e51dfec6a6daced5041a7fcb23f7c20a230a9aba5b7c3ab41d2e4d88780346ea"
     }
 ]
