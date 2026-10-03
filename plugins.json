@@ -44,6 +44,28 @@
         "name": "MovieBox🤕 lite"
     },
     {
+        "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/Sflix.cs3",
+    "status": 1,
+    "version": 3,
+    "name": "Sflix",
+    "internalName": "Sflix",
+    "authors": [
+      "AdiManu"
+    ],
+    "fileSize": 35720,
+    "repositoryUrl": "https://github.com/bikinveo-hash/RepairPremium_Repo",
+    "language": "id",
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://sflix.film/favicon.ico",
+    "apiVersion": 1,
+    "fileHash": "sha256-e43429071f393c931421cf34a5c20663927e8b4a37828cb5d20dbf1467880d04"
+    },
+    {
         "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/OppaDrama.cs3",
     "status": 1,
     "version": 3,
