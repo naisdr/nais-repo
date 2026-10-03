@@ -36,10 +36,10 @@
             "Series"
         ],
         "version": 14,
-        "internalName": "MovieBoxProvider",
+        "internalName": "MovieBoxProviderLite",
         "description": "Moviebox🤕 Lite max resolusi 480p",
         "url": "https://github.com/naisdr/nais-repo/blob/main/MovieBoxProviderLite.cs3",
-        "name": "MovieBoxProvider"
+        "name": "MovieBoxProviderLite"
     },
     {
         "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/OppaDrama.cs3",
