@@ -190,9 +190,9 @@
     {
         "iconUrl": "https://i.ibb.co.com/9HDVpFFT/layarkaca.png",
         "apiVersion": 1,
-        "fileHash": "sha256-552b35b509f38f0efd867bd66022265b36c0b6d12456755a31d8d3f703cc9aca",       
+        "fileHash": "sha256-ba1ffa0a67425b4e5dadafa68c417f4edbc38abd7c2686da498d788ed6058d6d",       
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 88372,
+        "fileSize": 88866,
         "status": 1,
         "language": "id",
         "authors": [
