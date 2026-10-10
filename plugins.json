@@ -129,7 +129,7 @@
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anichin.club&size=%size%",
-    "fileHash": "sha256-b41cbfc8177ed64bd16ec370979cfc173c47ab72b090a0cde60ce54faf3e4851",
+    "fileHash": "sha256-edb3afb4866c6dfc199111964645ec46f58c393a98348ce2508ba331f755877d",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/byimam2nd/oce",
     "fileSize": 394238,
@@ -141,18 +141,18 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "Anichin",
-    "description": "[Build 2026-10-06 20:33 WIB] \ud83c\udfac Anichin - Streaming Anime China Subtitle Indonesia dengan kualitas tinggi dan update tercepat!",
+    "description": "[Build 2026-10-10 21:40 WIB] \ud83c\udfac Anichin - Streaming Anime China Subtitle Indonesia dengan kualitas tinggi dan update tercepat!",
     "url": "https://raw.githubusercontent.com/byimam2nd/oce/builds/ProviderAnichin.cs3",
     "name": "Anichin"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=donghive.vip&sz=128",
-    "fileHash": "sha256-d9d6b7aa511a76943a21eeb6fe9a2800ec0674aa895ef4cbde8092d031a689b3",
+    "fileHash": "sha256-d059600d6349df090e1ca8ca54be117de1bd4272558385ade266332a71588061",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/byimam2nd/oce",
-    "fileSize": 394225,
+    "fileSize": 394218,
     "status": 1,
     "language": "id",
     "authors": [
@@ -161,18 +161,18 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "Donghive",
-    "description": "[Build 2026-10-06 20:33 WIB] \ud83d\udc1d Donghive - Platform streaming donghua China dengan subtitle Indonesia, dari jaringan Auratail!",
+    "description": "[Build 2026-10-10 21:40 WIB] \ud83d\udc1d Donghive - Platform streaming donghua China dengan subtitle Indonesia, dari jaringan Auratail!",
     "url": "https://raw.githubusercontent.com/byimam2nd/oce/builds/ProviderDonghive.cs3",
     "name": "Donghive"
     },   
     {
         "iconUrl": "https://a.favicon.im/animexin.dev?larger=true",
-    "fileHash": "sha256-c7140df946945966eb533d5c2f3a4b1709b4308425b7bfeb5838f7f79d5793e5",
+    "fileHash": "sha256-dcc50d799ec20d3b79cb56e317454beafb249a46d448a8950a2242524b7ab35d",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/byimam2nd/oce",
-    "fileSize": 394244,
+    "fileSize": 394231,
     "status": 1,
     "language": "id",
     "authors": [
@@ -181,9 +181,9 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "Animexin",
-    "description": "[Build 2026-10-06 20:33 WIB] \ud83c\udfac AnimexinDev - Streaming Anime Subtitle Indonesia dengan multi-server player!",
+    "description": "[Build 2026-10-10 21:40 WIB] \ud83c\udfac AnimexinDev - Streaming Anime Subtitle Indonesia dengan multi-server player!",
     "url": "https://raw.githubusercontent.com/byimam2nd/oce/builds/ProviderAnimexin.cs3",
     "name": "Animexin"
     },   
