@@ -129,10 +129,10 @@
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anichin.club&size=%size%",
-    "fileHash": "sha256-c54f044a75a983b1548316c677e91f3bbc0176d56b5d750909de9c2a23c32882",
+    "fileHash": "sha256-11b732de234e436555fbbc9061c9616c429b997929d896eeb7ba7e72076f7b1c",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/byimam2nd/oce",
-    "fileSize": 394989,
+    "fileSize": 394981,
     "status": 1,
     "language": "id",
     "authors": [
@@ -141,18 +141,18 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 7,
+    "version": 8,
     "internalName": "Anichin",
-    "description": "[Build 2026-10-11 06:49 WIB] \ud83c\udfac Anichin - Streaming Anime China Subtitle Indonesia dengan kualitas tinggi dan update tercepat!",
+    "description": "[Build 2026-10-11 21:01 WIB] \ud83c\udfac Anichin - Streaming Anime China Subtitle Indonesia dengan kualitas tinggi dan update tercepat!",
     "url": "https://raw.githubusercontent.com/byimam2nd/oce/builds/ProviderAnichin.cs3",
     "name": "Anichin"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=donghive.vip&sz=128",
-    "fileHash": "sha256-01c5c97331aa94d6e4afbfe3c4f9741d05237dcb66eff0bf8cf2852d470bbcb3",
+    "fileHash": "sha256-6096e84377f72c91eba074e15183c98d3d667731f7a79e2c8bf6f1c3de6e4cd7",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/byimam2nd/oce",
-    "fileSize": 394980,
+    "fileSize": 394970,
     "status": 1,
     "language": "id",
     "authors": [
@@ -161,18 +161,18 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 7,
+    "version": 8,
     "internalName": "Donghive",
-    "description": "[Build 2026-10-11 06:49 WIB] \ud83d\udc1d Donghive - Platform streaming donghua China dengan subtitle Indonesia, dari jaringan Auratail!",
+    "description": "[Build 2026-10-11 21:01 WIB] \ud83d\udc1d Donghive - Platform streaming donghua China dengan subtitle Indonesia, dari jaringan Auratail!",
     "url": "https://raw.githubusercontent.com/byimam2nd/oce/builds/ProviderDonghive.cs3",
     "name": "Donghive"
     },   
     {
         "iconUrl": "https://a.favicon.im/animexin.dev?larger=true",
-    "fileHash": "sha256-3ed56eec109c8ecafd259c8f595f8a5efbf5d70fe6a97ea17d980e96be5ad52b",
+    "fileHash": "sha256-7b39374f784973554a22f7aa64929ebdf5d24cea4aac539e198af42f963de105",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/byimam2nd/oce",
-    "fileSize": 395006,
+    "fileSize": 395015,
     "status": 1,
     "language": "id",
     "authors": [
@@ -181,9 +181,9 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 7,
+    "version": 8,
     "internalName": "Animexin",
-    "description": "[Build 2026-10-11 06:49 WIB] \ud83c\udfac AnimexinDev - Streaming Anime Subtitle Indonesia dengan multi-server player!",
+    "description": "[Build 2026-10-11 21:01 WIB] \ud83c\udfac AnimexinDev - Streaming Anime Subtitle Indonesia dengan multi-server player!",
     "url": "https://raw.githubusercontent.com/byimam2nd/oce/builds/ProviderAnimexin.cs3",
     "name": "Animexin"
     },   
@@ -211,9 +211,9 @@
     {
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
-        "fileHash": "sha256-fc779f9c8e07afba3cca8a9c63c58cd3c40b514cbb4369b6115ad466bf3eca00",       
+        "fileHash": "sha256-8767734564493632854088fd4292250d17abbfe793e817bb9c2a5dbf47e9ddde",       
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 1957398,
+        "fileSize": 1959576,
         "status": 1,
         "language": "en",
         "authors": [
@@ -227,7 +227,7 @@
             "Cartoon",
             "TvSeries"
         ],
-        "version": 687,
+        "version": 688,
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
