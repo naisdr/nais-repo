@@ -129,10 +129,10 @@
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anichin.club&size=%size%",
-    "fileHash": "sha256-e43f69b356f40e210dcd732d3d343e92f1479f710fb9b7c9ee24eebe4af2342e",
+    "fileHash": "sha256-c54f044a75a983b1548316c677e91f3bbc0176d56b5d750909de9c2a23c32882",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/byimam2nd/oce",
-    "fileSize": 394528,
+    "fileSize": 394989,
     "status": 1,
     "language": "id",
     "authors": [
@@ -141,7 +141,7 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 6,
+    "version": 7,
     "internalName": "Anichin",
     "description": "[Build 2026-10-11 06:49 WIB] \ud83c\udfac Anichin - Streaming Anime China Subtitle Indonesia dengan kualitas tinggi dan update tercepat!",
     "url": "https://raw.githubusercontent.com/byimam2nd/oce/builds/ProviderAnichin.cs3",
@@ -149,10 +149,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=donghive.vip&sz=128",
-    "fileHash": "sha256-19b181642cbe81dfc0740c8d5b92b43522b7255c2373da617fff64762d0a80be",
+    "fileHash": "sha256-01c5c97331aa94d6e4afbfe3c4f9741d05237dcb66eff0bf8cf2852d470bbcb3",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/byimam2nd/oce",
-    "fileSize": 394493,
+    "fileSize": 394980,
     "status": 1,
     "language": "id",
     "authors": [
@@ -161,7 +161,7 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 6,
+    "version": 7,
     "internalName": "Donghive",
     "description": "[Build 2026-10-11 06:49 WIB] \ud83d\udc1d Donghive - Platform streaming donghua China dengan subtitle Indonesia, dari jaringan Auratail!",
     "url": "https://raw.githubusercontent.com/byimam2nd/oce/builds/ProviderDonghive.cs3",
@@ -169,10 +169,10 @@
     },   
     {
         "iconUrl": "https://a.favicon.im/animexin.dev?larger=true",
-    "fileHash": "sha256-a97307fd4492f5b1168fdfc51ccdff5ea6c6885dd8fb40ee97b20d882cb6d0e1",
+    "fileHash": "sha256-3ed56eec109c8ecafd259c8f595f8a5efbf5d70fe6a97ea17d980e96be5ad52b",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/byimam2nd/oce",
-    "fileSize": 394490,
+    "fileSize": 395006,
     "status": 1,
     "language": "id",
     "authors": [
@@ -181,7 +181,7 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 6,
+    "version": 7,
     "internalName": "Animexin",
     "description": "[Build 2026-10-11 06:49 WIB] \ud83c\udfac AnimexinDev - Streaming Anime Subtitle Indonesia dengan multi-server player!",
     "url": "https://raw.githubusercontent.com/byimam2nd/oce/builds/ProviderAnimexin.cs3",
