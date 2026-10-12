@@ -129,10 +129,10 @@
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anichin.club&size=%size%",
-    "fileHash": "sha256-3cb5f2f6247c14d65f149568790567fa38ac8420e6e0a8bd021804463a41737d",
+    "fileHash": "sha256-e49922dc44b9241ac530277c6ff6f7ce224bc224a1afb2e4ed1f402920876b10",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/byimam2nd/oce",
-    "fileSize": 394984,
+    "fileSize": 395744,
     "status": 1,
     "language": "id",
     "authors": [
@@ -141,18 +141,18 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 9,
+    "version": 10,
     "internalName": "Anichin",
-    "description": "[Build 2026-10-11 22:18 WIB] \ud83c\udfac Anichin - Streaming Anime China Subtitle Indonesia dengan kualitas tinggi dan update tercepat!",
+    "description": "[Build 2026-10-12 20:10 WIB] \ud83c\udfac Anichin - Streaming Anime China Subtitle Indonesia dengan kualitas tinggi dan update tercepat!",
     "url": "https://raw.githubusercontent.com/byimam2nd/oce/builds/ProviderAnichin.cs3",
     "name": "Anichin"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=donghive.vip&sz=128",
-    "fileHash": "sha256-8cb841493806a1e8b5ded48eaf592ae815aec9176f65094ecd48dcbdea2e7bee",
+    "fileHash": "sha256-33cab90053e5fd7e5388635ec54325dde283bf3128e384cacfc2ae731d5ad58c",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/byimam2nd/oce",
-    "fileSize": 394975,
+    "fileSize": 395779,
     "status": 1,
     "language": "id",
     "authors": [
@@ -161,18 +161,18 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 9,
+    "version": 10,
     "internalName": "Donghive",
-    "description": "[Build 2026-10-11 22:18 WIB] \ud83d\udc1d Donghive - Platform streaming donghua China dengan subtitle Indonesia, dari jaringan Auratail!",
+    "description": "[Build 2026-10-12 20:10 WIB] \ud83d\udc1d Donghive - Platform streaming donghua China dengan subtitle Indonesia, dari jaringan Auratail!",
     "url": "https://raw.githubusercontent.com/byimam2nd/oce/builds/ProviderDonghive.cs3",
     "name": "Donghive"
     },   
     {
         "iconUrl": "https://a.favicon.im/animexin.dev?larger=true",
-    "fileHash": "sha256-272e98e9d58dbf00ed868886bd31e428158d2627421ccc1405371a3ae87bd923",
+    "fileHash": "sha256-05838ec65ff63d033e6a4ed41898da062facb10e524cb69ce7c81f25503c3157",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/byimam2nd/oce",
-    "fileSize": 395021,
+    "fileSize": 395748,
     "status": 1,
     "language": "id",
     "authors": [
@@ -181,18 +181,18 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 9,
+    "version": 10,
     "internalName": "Animexin",
-    "description": "[Build 2026-10-11 22:18 WIB] \ud83c\udfac AnimexinDev - Streaming Anime Subtitle Indonesia dengan multi-server player!",
+    "description": "[Build 2026-10-12 20:10 WIB] \ud83c\udfac AnimexinDev - Streaming Anime Subtitle Indonesia dengan multi-server player!",
     "url": "https://raw.githubusercontent.com/byimam2nd/oce/builds/ProviderAnimexin.cs3",
     "name": "Animexin"
     },   
     {
         "iconUrl": "https://i.ibb.co.com/9HDVpFFT/layarkaca.png",
         "apiVersion": 1,
-        "fileHash": "sha256-70ba09de80a560de8b19840a9feb2298119127b9a866420dc99f7814cebd4487",       
+        "fileHash": "sha256-f40c66c3ad55f7c6e4f0d454ea8f3b34ff146274717049d1462c953688abe8ef",       
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 80706,
+        "fileSize": 105414,
         "status": 1,
         "language": "id",
         "authors": [
@@ -211,9 +211,9 @@
     {
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
-        "fileHash": "sha256-8767734564493632854088fd4292250d17abbfe793e817bb9c2a5dbf47e9ddde",       
+        "fileHash": "sha256-deaf01dabbf38365b0cc583a0aa813801fd6bf6d861301215b37a40aecbeb86d",       
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 1959576,
+        "fileSize": 1997227,
         "status": 1,
         "language": "en",
         "authors": [
