@@ -1,0 +1,75 @@
+name: Build CloudStream UI Redesign APK
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Set up Android SDK
+        uses: android-actions/setup-android@v4
+        with:
+          packages: 'platform-tools'
+
+      - name: Install Android SDK
+        run: |
+          sdkmanager "platform-tools" "platforms;android-36" "build-tools;36.0.0"
+
+      - name: Extract modified source
+        run: |
+          set -e
+          ZIP="$(find . -maxdepth 1 -name 'CloudStream-4.8.0-UI-Redesign-Modified-Source.zip' | head -n 1)"
+          test -n "$ZIP"
+          mkdir -p source
+          unzip -q "$ZIP" -d source
+          echo "Source berhasil diekstrak."
+          find source -name gradlew -type f
+
+      - name: Locate Gradle project
+        id: project
+        run: |
+          set -e
+          GRADLEW="$(find source -name gradlew -type f | head -n 1)"
+          test -n "$GRADLEW"
+          PROJECT_DIR="$(dirname "$GRADLEW")"
+          echo "dir=$PROJECT_DIR" >> "$GITHUB_OUTPUT"
+          echo "Proyek ditemukan: $PROJECT_DIR"
+
+      - name: Initialize Git metadata
+        working-directory: ${{ steps.project.outputs.dir }}
+        run: |
+          git init
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add -A
+          git commit -m "Prepare source for build"
+
+      - name: Build Debug and Release APK
+        working-directory: ${{ steps.project.outputs.dir }}
+        run: |
+          chmod +x gradlew
+          ./gradlew --no-daemon \
+            :app:assembleStableDebug \
+            :app:assembleStableRelease
+
+      - name: Upload APK files
+        uses: actions/upload-artifact@v4
+        with:
+          name: CloudStream-UI-Redesign-APK
+          path: source/**/app/build/outputs/apk/**/*.apk
+          if-no-files-found: error
+          retention-days: 7
