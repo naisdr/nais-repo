@@ -38,6 +38,15 @@ jobs:
           unzip -q "$ZIP" -d source
           find source -name gradlew -type f
 
+      - name: Initialize Git metadata
+        working-directory: source/cloudstream-4.8.0
+        run: |
+          git init
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add -A
+          git commit -m "Prepare source for build"
+
       - name: Locate Gradle project
         id: project
         run: |
