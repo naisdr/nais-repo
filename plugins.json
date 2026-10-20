@@ -163,8 +163,8 @@
     ],
     "version": 589,
     "internalName": "Anichin",
-    "description": "[Build #589 | 2026-10-13 19:49 WIB] \ud83c\udfac Anichin - Streaming Anime China Subtitle Indonesia dengan kualitas tinggi dan update tercepat!",
-    "url": "https://raw.githubusercontent.com/byimam2nd/oce/builds/ProviderAnichin.cs3",
+    "description": "[4.1.0 #589 | 2026-10-13 20:06 WIB] \ud83c\udfac Anichin - Streaming Anime China Subtitle Indonesia dengan kualitas tinggi dan update tercepat!",
+    "url": "https://github.com/byimam2nd/oce/releases/download/v4.1.0/ProviderAnichin.cs3",
     "name": "Anichin"
     },
     {
@@ -183,8 +183,8 @@
     ],
     "version": 589,
     "internalName": "Donghive",
-    "description": "[Build #589 | 2026-10-13 19:49 WIB] \ud83d\udc1d Donghive - Platform streaming donghua China dengan subtitle Indonesia, dari jaringan Auratail!",
-    "url": "https://raw.githubusercontent.com/byimam2nd/oce/builds/ProviderDonghive.cs3",
+    "description": "[4.1.0 #589 | 2026-10-13 20:06 WIB] \ud83d\udc1d Donghive - Platform streaming donghua China dengan subtitle Indonesia, dari jaringan Auratail!",
+    "url": "https://github.com/byimam2nd/oce/releases/download/v4.1.0/ProviderDonghive.cs3",
     "name": "Donghive"
     },   
     {
@@ -203,8 +203,8 @@
     ],
     "version": 589,
     "internalName": "Animexin",
-    "description": "[Build #589 | 2026-10-13 19:49 WIB] \ud83c\udfac AnimexinDev - Streaming Anime Subtitle Indonesia dengan multi-server player!",
-    "url": "https://raw.githubusercontent.com/byimam2nd/oce/builds/ProviderAnimexin.cs3",
+    "description": "[4.1.0 #589 | 2026-10-13 20:06 WIB] \ud83c\udfac AnimexinDev - Streaming Anime Subtitle Indonesia dengan multi-server player!",
+    "url": "https://github.com/byimam2nd/oce/releases/download/v4.1.0/ProviderAnimexin.cs3",
     "name": "Animexin"
     },   
     {
