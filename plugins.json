@@ -2,14 +2,14 @@
     {
         "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/Moviebox.cs3",
     "status": 1,
-    "version": 20,
+    "version": 24,
     "name": "MovieBox",
     "internalName": "MovieBox",
     "description": "MovieBox HD",
     "authors": [
       "aldry84"
     ],
-    "fileSize": 147229,
+    "fileSize": 122372,
     "repositoryUrl": "https://github.com/bikinveo-hash/RepairPremium_Repo",
     "language": "en",
     "tvTypes": [
@@ -19,7 +19,7 @@
     ],
     "iconUrl": "https://i.ibb.co.com/YFbP1FSr/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-6384759c0f96b59a4102bd70b6668774ba0e10238981014821e775ef08bd0550"
+    "fileHash": "sha256-80a2329b6224aebafae628b1fca257277c52d5795c87ae38a842aec536eb3998"
     },
     {
         "iconUrl": "https://netnaija.film/favicon.ico",
