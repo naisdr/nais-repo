@@ -231,9 +231,9 @@
     {
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
-        "fileHash": "sha256-fe0c8b2ac5daecaca9a7f502d0cd54e575793d7d4f64a0aae4ea20ab5abf8fcd",       
+        "fileHash": "sha256-41fef2d83071ddcfb2399910f12e33d9015498d9dac71cfc841a01f6868607e7",       
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 2079718,
+        "fileSize": 2106245,
         "status": 1,
         "language": "en",
         "authors": [
@@ -247,7 +247,7 @@
             "Cartoon",
             "TvSeries"
         ],
-        "version": 693,
+        "version": 694,
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
