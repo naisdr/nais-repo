@@ -1,4 +1,4 @@
-name: Build CloudStream UI Redesign APK
+name: Build CloudStream 4.9.0 UI Redesign APK
 
 on:
   workflow_dispatch:
@@ -20,34 +20,45 @@ jobs:
           distribution: temurin
           java-version: '17'
 
+      - name: Set up Gradle
+        uses: gradle/actions/setup-gradle@v4
+
       - name: Set up Android SDK
         uses: android-actions/setup-android@v4
-        with:
-          packages: 'platform-tools'
 
       - name: Install Android SDK
         run: |
-          sdkmanager "platform-tools" "platforms;android-36" "build-tools;36.0.0"
+          sdkmanager "platform-tools" "platforms;android-37"
 
       - name: Extract modified source
         run: |
           set -e
-          ZIP="$(find . -maxdepth 1 -name 'CloudStream-4.8.0-UI-Redesign-Modified-Source.zip' | head -n 1)"
+
+          ZIP="$(find . -maxdepth 1 \
+            -name 'CloudStream-4.9.0-UI-Redesign.zip' \
+            | head -n 1)"
+
           test -n "$ZIP"
+
           mkdir -p source
           unzip -q "$ZIP" -d source
-          echo "Source berhasil diekstrak."
-          find source -name gradlew -type f
+
+          echo "Source berhasil diekstrak"
 
       - name: Locate Gradle project
         id: project
         run: |
           set -e
+
           GRADLEW="$(find source -name gradlew -type f | head -n 1)"
+
           test -n "$GRADLEW"
+
           PROJECT_DIR="$(dirname "$GRADLEW")"
+
           echo "dir=$PROJECT_DIR" >> "$GITHUB_OUTPUT"
-          echo "Proyek ditemukan: $PROJECT_DIR"
+
+          echo "Project: $PROJECT_DIR"
 
       - name: Initialize Git metadata
         working-directory: ${{ steps.project.outputs.dir }}
@@ -61,15 +72,31 @@ jobs:
       - name: Build Debug and Release APK
         working-directory: ${{ steps.project.outputs.dir }}
         run: |
+          set -e
+
           chmod +x gradlew
-          ./gradlew --no-daemon \
-            :app:assembleStableDebug \
-            :app:assembleStableRelease
+
+          for attempt in 1 2 3; do
+            echo "Build attempt $attempt"
+
+            if ./gradlew --no-daemon \
+              :app:assembleStableDebug \
+              :app:assembleStableRelease; then
+              exit 0
+            fi
+
+            if [ "$attempt" -lt 3 ]; then
+              sleep 20
+            fi
+          done
+
+          exit 1
 
       - name: Upload APK files
         uses: actions/upload-artifact@v4
         with:
-          name: CloudStream-UI-Redesign-APK
-          path: source/**/app/build/outputs/apk/**/*.apk
+          name: CloudStream-4.9.0-UI-Redesign-APK
+          path: |
+            source/**/app/build/outputs/apk/**/*.apk
           if-no-files-found: error
           retention-days: 7
