@@ -28,7 +28,18 @@ jobs:
 
       - name: Install Android SDK
         run: |
-          sdkmanager "platform-tools" "platforms;android-37"
+          yes | sdkmanager --licenses
+
+          sdkmanager \
+            "platform-tools" \
+            "platforms;android-37.0"
+
+          mkdir -p "$ANDROID_HOME/platforms"
+
+          if [ ! -e "$ANDROID_HOME/platforms/android-37" ]; then
+            ln -s android-37.0 \
+              "$ANDROID_HOME/platforms/android-37"
+          fi
 
       - name: Extract modified source
         run: |
