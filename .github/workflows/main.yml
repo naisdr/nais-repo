@@ -43,18 +43,30 @@ jobs:
 
       - name: Extract modified source
         run: |
-          set -e
+          set -eux
 
-          ZIP="$(find . -maxdepth 1 \
-            -name 'CloudStream-4.9.0-UI-Redesign.zip' \
-            | head -n 1)"
+          echo "=== SEARCH SOURCE ZIP ==="
 
-          test -n "$ZIP"
+          ZIP=$(find . -type f \
+            -iname 'CloudStream-4.9.0-UI-Redesign.zip' \
+            -print -quit)
+
+          if [ -z "$ZIP" ]; then
+            echo "ERROR: Source ZIP tidak ditemukan!"
+            echo "Pastikan ZIP sudah diupload ke repository."
+            exit 1
+          fi
+
+          echo "Source ditemukan: $ZIP"
 
           mkdir -p source
+
+          unzip -t "$ZIP"
           unzip -q "$ZIP" -d source
 
-          echo "Source berhasil diekstrak"
+          echo "=== EXTRACTION SUCCESS ==="
+
+          find source -name gradlew -type f
 
       - name: Locate Gradle project
         id: project
