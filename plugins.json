@@ -338,15 +338,15 @@
         "name": "Pusatmovie"
     },
     {
-        "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/FreeReels.cs3",
+        "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/FreeReels.cs3",
     "status": 1,
-    "version": 30,
+    "version": 31,
     "name": "FreeReels",
     "internalName": "FreeReels",
     "authors": [
-      "AdiManu"
+      "duro92"
     ],
-    "fileSize": 37710,
+    "fileSize": 73662,
     "repositoryUrl": "https://github.com/bikinveo-hash/RepairPremium_Repo",
     "language": "id",
     "tvTypes": [
@@ -357,6 +357,6 @@
     ],
     "iconUrl": "https://free-reels.com/free-reels.png",
     "apiVersion": 1,
-    "fileHash": "sha256-e51dfec6a6daced5041a7fcb23f7c20a230a9aba5b7c3ab41d2e4d88780346ea"
+    "fileHash": "sha256-1c476ff38daa8ed906d32ec1c09a929658fb453798630c433f71024aaa303db4"
     }
 ]
