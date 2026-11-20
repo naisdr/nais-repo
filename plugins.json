@@ -190,9 +190,9 @@
     {
         "iconUrl": "https://i.ibb.co.com/9HDVpFFT/layarkaca.png",
         "apiVersion": 1,
-        "fileHash": "sha256-18b918b871e1520cc5e6b538044d4bf0bf96ba80f470053db27a4ef9e6cc137f",       
+        "fileHash": "sha256-5771129cbe318e43e2d1798129b15a714f6d388d4c827c42ad4a90d823a87e20",       
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 104868,
+        "fileSize": 121015,
         "status": 1,
         "language": "id",
         "authors": [
@@ -211,9 +211,9 @@
     {
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
-        "fileHash": "sha256-8d105153266ea62766e453f2952f3aa7cafccedceab92edb469b713fa7320285",       
+        "fileHash": "sha256-94d7ec68ed45cf3527fb71d92460047cd3d1d5de8c92aa912122f7ed1117e332",       
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 2236764,
+        "fileSize": 2236985,
         "status": 1,
         "language": "en",
         "authors": [
