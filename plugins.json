@@ -132,7 +132,7 @@
     "fileHash": "sha256-4f18ae9b80e97fddce2df256410ef6467f0d05c8c43c122e481a5d6fffacbfec",
     "apiVersion": 1,
     "repositoryUrl": "https://naisflix.xo.je/z/",
-    "fileSize": 395743,
+    "fileSize": 507647,
     "status": 1,
     "language": "id",
     "authors": [
@@ -141,10 +141,10 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 30000643,
+    "version": 30000849,
     "internalName": "Anichin",
-    "description": "[v4.1.3 #643 | 2026-11-18 20:49 WIB] \ud83c\udfac Anichin - Streaming Anime China Subtitle Indonesia dengan kualitas tinggi dan update tercepat!",
-    "url": "https://github.com/byimam2nd/oce/releases/download/v4.1.3/ProviderAnichin.cs3",
+    "description": "[v5.0.0 #849 | 2026-11-25 08:05 WIB] \ud83c\udfac Anichin - Streaming Anime China Subtitle Indonesia dengan kualitas tinggi dan update tercepat!",
+    "url": "https://github.com/byimam2nd/oce/releases/download/v5.0.0/ProviderAnichin.cs3",
     "name": "Anichin"
     },
     {
@@ -152,7 +152,7 @@
     "fileHash": "sha256-56d2d35a1a888c133d41b900b9ff7a8d22a255adb02ff6907286d1121dc6c5e9",
     "apiVersion": 1,
     "repositoryUrl": "https://naisflix.xo.je/z/",
-    "fileSize": 407922,
+    "fileSize": 507635,
     "status": 1,
     "language": "id",
     "authors": [
@@ -161,10 +161,10 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 30000643,
+    "version": 30000849,
     "internalName": "Donghive",
-    "description": "[v4.1.3 #643 | 2026-11-18 20:49 WIB] \ud83d\udc1d Donghive - Platform streaming donghua China dengan subtitle Indonesia, dari jaringan Auratail!",
-    "url": "https://github.com/byimam2nd/oce/releases/download/v4.1.3/ProviderDonghive.cs3",
+    "description": "[v5.0.0 #849 | 2026-11-25 08:05 WIB] \ud83d\udc1d Donghive - Platform streaming donghua China dengan subtitle Indonesia, dari jaringan Auratail!",
+    "url": "https://github.com/byimam2nd/oce/releases/download/v5.0.0/ProviderDonghive.cs3",
     "name": "Donghive"
     },   
     {
@@ -172,7 +172,7 @@
     "fileHash": "sha256-72b7e02a1cab9dd696fd29f3bb142d8cfb66cf17acbab2188883d939754c3b78",
     "apiVersion": 1,
     "repositoryUrl": "https://naisflix.xo.je/z/",
-    "fileSize": 407956,
+    "fileSize": 507686,
     "status": 1,
     "language": "id",
     "authors": [
@@ -181,10 +181,9 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 30000643,
-    "internalName": "Animexin",
-    "description": "[v4.1.3 #643 | 2026-11-18 20:49 WIB] \ud83c\udfac AnimexinDev - Streaming Anime Subtitle Indonesia dengan multi-server player!",
-    "url": "https://github.com/byimam2nd/oce/releases/download/v4.1.3/ProviderAnimexin.cs3",
+    "version": 30000849,
+    "internalName": "[v5.0.0 #849 | 2026-11-25 08:05 WIB] \ud83c\udfac AnimexinDev - Streaming Anime Subtitle Indonesia dengan multi-server player!",
+    "url": "https://github.com/byimam2nd/oce/releases/download/v5.0.0/ProviderAnimexin.cs3",
     "name": "Animexin"
     },   
     {
