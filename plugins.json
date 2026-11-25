@@ -170,21 +170,24 @@
     {
         "iconUrl": "https://a.favicon.im/animexin.dev?larger=true",
     "fileHash": "sha256-03227926ddf5ab6fec9feb6e28b0414f64bfbbb6808ab2bfe35eedc02b118b92",
-    "apiVersion": 1,
-    "repositoryUrl": "https://naisflix.xo.je/z/",
-    "fileSize": 507686,
-    "status": 1,
-    "language": "id",
-    "authors": [
-      "Imam2nd"
-    ],
-    "tvTypes": [
-      "Anime"
-    ],
-    "version": 30000849,
-    "internalName": "[v5.0.0 #849 | 2026-11-25 08:05 WIB] \ud83c\udfac AnimexinDev - Streaming Anime Subtitle Indonesia dengan multi-server player!",
-    "url": "https://github.com/byimam2nd/oce/releases/download/v5.0.0/ProviderAnimexin.cs3",
-    "name": "Animexin"
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/byimam2nd/oce",
+        "fileSize": 507686,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Imam2nd"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "TvSeries"
+        ],
+        "version": 30000849,
+        "internalName": "ProviderAnimexin",
+        "description": "[v5.0.0 #849 | 2026-11-25 08:05 WIB] \ud83c\udfac AnimexinDev - Streaming Anime Subtitle Indonesia dengan multi-server player!",
+        "url": "https://github.com/byimam2nd/oce/releases/download/v5.0.0/ProviderAnimexin.cs3",
+        "name": "ProviderAnimexin"
     },   
     {
         "iconUrl": "https://i.ibb.co.com/9HDVpFFT/layarkaca.png",
