@@ -254,9 +254,10 @@
     },
     {
         "iconUrl": "https://i.ibb.co.com/xtyf1WFY/idlix.png",
+        "fileHash": "sha256-630d9e976a3211b2bfdfeacbaff31771dc27d5491f1b4def8129c91a59838c49",
         "apiVersion": 1,
         "repositoryUrl": "https://naisflix.xo.je/z/",
-        "fileSize": 51520,
+        "fileSize": 229573,
         "status": 1,
         "language": "id",
         "authors": [
@@ -269,9 +270,9 @@
             "Anime",
             "Movie"
         ],
-        "version": 1,
+        "version": 27,
         "internalName": "Idlix",
-        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Idlix.cs3",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IdlixProvider.cs3",
         "name": "Idlix"
     },
     {
